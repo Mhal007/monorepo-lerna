@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/mhal007/monorepo-lerna/compare/@mhal007/monorepo-lerna-application-1@0.1.0...@mhal007/monorepo-lerna-application-1@0.2.0) (2022-08-19)
+
+
+### Features
+
+* added dependencies of libraries to applications ([400ef7b](https://github.com/mhal007/monorepo-lerna/commit/400ef7bc63bddd139709ec45f4dda3c55ca4486b))
+
+
+
+
+
 # 0.1.0 (2022-08-19)
 
 
