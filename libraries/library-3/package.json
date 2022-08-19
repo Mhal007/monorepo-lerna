@@ -6,5 +6,8 @@
   "repository": "git@github.com:mhal007/monorepo-lerna",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "@mhal007/monorepo-lerna-library-helper": "^0.1.0"
   }
 }
