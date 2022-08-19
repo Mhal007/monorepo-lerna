@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/mhal007/monorepo-lerna/compare/@mhal007/monorepo-lerna-application-3@0.2.0...@mhal007/monorepo-lerna-application-3@0.2.1) (2022-08-19)
+
+**Note:** Version bump only for package @mhal007/monorepo-lerna-application-3
+
+
+
+
+
 # [0.2.0](https://github.com/mhal007/monorepo-lerna/compare/@mhal007/monorepo-lerna-application-3@0.1.0...@mhal007/monorepo-lerna-application-3@0.2.0) (2022-08-19)
 
 
