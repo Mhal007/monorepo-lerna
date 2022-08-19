@@ -1,0 +1,21 @@
+{
+  "name": "@mhal007/monorepo-lerna",
+  "version": "0.0.1",
+  "repository": "git@github.com:mhal007/monorepo-lerna",
+  "homepage": "https://github.com/Mhal007/monorepo-lerna#readme",
+  "scripts": {
+    "install": "lerna bootstrap --hoist",
+    "start": "lerna run start",
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "lerna": "5.4.3"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "17.0.3",
+    "@commitlint/config-conventional": "17.0.3",
+    "commitizen": "4.2.5",
+    "cz-conventional-changelog": "3.3.0",
+    "husky": "8.0.1"
+  }
+}
