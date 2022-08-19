@@ -1,6 +1,6 @@
 {
   "name": "@mhal007/monorepo-lerna-application-2",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "type": "module",
   "main": "index.js",
   "repository": "git@github.com:mhal007/monorepo-lerna",
